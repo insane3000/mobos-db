@@ -1,0 +1,53 @@
+{
+  "mobos": [
+    {
+      "id": 1,
+      "name": "mobo",
+      "marca": "msi",
+      "series": "MEG",
+      "model": "Z490 GODLIKE",
+      "price": "289",
+      "consumo": 100,
+      "description": "Una bonita tarjeta grafica",
+      "thumbnail": "",
+      "img01": "https://asset.msi.com/resize/image/global/product/product_1609386218b5c80b88e9b7a95ea9e824ee756f0249.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+      "images": [
+        {
+          "id": 1,
+          "img": "https://asset.msi.com/resize/image/global/product/product_1609386218b5c80b88e9b7a95ea9e824ee756f0249.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
+        },
+        {
+          "id": 2,
+          "img": "https://asset.msi.com/resize/image/global/product/product_0_20200429154712_5ea9310011340.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
+        },
+        {
+          "id": 3,
+          "img": "https://asset.msi.com/resize/image/global/product/product_0_20200429154705_5ea930f96cd41.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
+        },
+        {
+          "id": 4,
+          "img": "https://asset.msi.com/resize/image/global/product/product_3_20200429154714_5ea93102e7bea.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
+        },
+        {
+          "id": 5,
+          "img": "https://asset.msi.com/resize/image/global/product/product_4_20200429161312_5ea937187d951.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "plataforma": "intel",
+          "chipset": "z490",
+          "socket": "1200",
+          "ddr": "4",
+          "frecuenciaMax": "5000(OC)",
+          "cpuMax": "i9",
+          "m2": "3",
+          "sata": "6",
+          "lan1": "Aquantia® AQC107 10G LAN",
+          "lan2": "Realtek® RTL8125B 2.5G LAN",
+          "wifi": ""
+        }
+      ]
+    }
+  ]
+}
