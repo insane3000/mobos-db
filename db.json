@@ -3,7 +3,7 @@
   {
     "id": 1,
     "name": "mobo",
-    "marca": "msi",
+    "brand": "msi",
     "series": "MEG",
     "model": "Z490 GODLIKE",
     "price": "289",
