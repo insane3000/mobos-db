@@ -1,48 +1,100 @@
 {
-  "Mobos" : [
-  {
-    "id": 1,
-    "name": "mobo",
-    "brand": "msi",
-    "series": "MEG",
-    "model": "Z490 GODLIKE",
-    "price": "289",
-    "energy": 100,
-    "description": "Una bonita tarjeta grafica",
-    "thumbnail": "https://asset.msi.com/resize/image/global/product/product_1609386218b5c80b88e9b7a95ea9e824ee756f0249.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
-    "large":
-      "https://asset.msi.com/resize/image/global/product/product_1609386218b5c80b88e9b7a95ea9e824ee756f0249.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
-    "images": [
-      
-          "https://asset.msi.com/resize/image/global/product/product_1609386218b5c80b88e9b7a95ea9e824ee756f0249.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
-      ,
-      
-          "https://asset.msi.com/resize/image/global/product/product_0_20200429154712_5ea9310011340.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
-      ,
-      
-          "https://asset.msi.com/resize/image/global/product/product_0_20200429154705_5ea930f96cd41.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
-      ,
-      
-          "https://asset.msi.com/resize/image/global/product/product_3_20200429154714_5ea93102e7bea.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
-      ,
-      
-          "https://asset.msi.com/resize/image/global/product/product_4_20200429161312_5ea937187d951.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
-      
-    ],
-    "caracteristicas": {
-      "plataforma": "intel",
-      "chipset": "z490",
-      "socket": "1200",
-      "ddr": "4",
-      "frecuenciaMax": "5000(OC)",
-      "cpuMax": "i9",
-      "m2": "3",
-      "sata": "6",
-      "lan1": "Aquantia® AQC107 10G LAN",
-      "lan2": "Realtek® RTL8125B 2.5G LAN",
-      "wifi": ""
+  "mobos": [
+    {
+      "id": 1,
+      "name": "mobo",
+      "brand": "msi",
+      "series": "MEG",
+      "model": "MEG Z590 ACE",
+      "price": "289",
+      "energy": 100,
+      "description": "Una bonita tarjeta grafica",
+      "thumbnail": "https://asset.msi.com/resize/image/global/product/product_1612485952f4895dc8fb5379aa8f1a22ae859b621f.png62405b38c58fe0f07fcef2367d8a9ba1/200.png",
+      "large": "",
+      "images": [
+        "https://asset.msi.com/resize/image/global/product/product_1612485952f4895dc8fb5379aa8f1a22ae859b621f.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_1611307278fef6f2843796d8635e9e7698cb985c07.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_1611307278ffff190e5a68d5461d780318ea3ac7e8.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_16113072806631d31737d391cfb6c7ac7bec94cca9.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_1611307276d0d8de4418c6586d59fe78bbed6391b7.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
+      ],
+      "especification": {
+        "plataform": "intel",
+        "chipset": "z490",
+        "socket": "1200",
+        "ddr": "4",
+        "frecuencyMax": "5000(OC)",
+        "cpuMax": "i9",
+        "m2": "3",
+        "sata": "6",
+        "lan1": "Aquantia® AQC107 10G LAN",
+        "lan2": "Realtek® RTL8125B 2.5G LAN",
+        "wifi": ""
+      }
+    },
+    {
+      "id": 2,
+      "name": "mobo",
+      "brand": "msi",
+      "series": "MEG",
+      "model": "Z590 GODLIKE",
+      "price": "289",
+      "energy": 100,
+      "description": "Una bonita tarjeta grafica",
+      "thumbnail": "https://asset.msi.com/resize/image/global/product/product_161276858646aeea53e5d5409246f229a2e082fe51.png62405b38c58fe0f07fcef2367d8a9ba1/200.png",
+      "large": "",
+      "images": [
+        "https://asset.msi.com/resize/image/global/product/product_161276858646aeea53e5d5409246f229a2e082fe51.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_16123193739da9bda4bba44a59e63e07e9eff2d79a.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_16123193734dce2ced36a66f2a7ff3b26952982a60.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_1612319376dc0c624a5387e8ad03a5deb372b01f01.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_161231937274796576b3aa73c823053097348e09a1.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
+      ],
+      "especification": {
+        "plataform": "intel",
+        "chipset": "z490",
+        "socket": "1200",
+        "ddr": "4",
+        "frecuencyMax": "5000(OC)",
+        "cpuMax": "i9",
+        "m2": "3",
+        "sata": "6",
+        "lan1": "Aquantia® AQC107 10G LAN",
+        "lan2": "Realtek® RTL8125B 2.5G LAN",
+        "wifi": ""
+      }
+    },
+    {
+      "id": 3,
+      "name": "mobo",
+      "brand": "msi",
+      "series": "MEG",
+      "model": "Z590I UNIFY",
+      "price": "289",
+      "energy": 100,
+      "description": "Una bonita tarjeta grafica",
+      "thumbnail": "https://asset.msi.com/resize/image/global/product/product_1612768708e3eff69a530ae9a2e87fe982d454426d.png62405b38c58fe0f07fcef2367d8a9ba1/200.png",
+      "large": "",
+      "images": [
+        "https://asset.msi.com/resize/image/global/product/product_1612768708e3eff69a530ae9a2e87fe982d454426d.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_161232118570e3144175d20e4ba895dc7b2b645b7b.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_1612321187405ba786c73b3e35565ba85b177c66c6.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_16123211874dbab9f90a11a765cfac5730383f7279.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_161232118921b537a2049d1093d4ad7fc31bf3eabe.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
+      ],
+      "especification": {
+        "plataform": "intel",
+        "chipset": "z490",
+        "socket": "1200",
+        "ddr": "4",
+        "frecuencyMax": "5000(OC)",
+        "cpuMax": "i9",
+        "m2": "3",
+        "sata": "6",
+        "lan1": "Aquantia® AQC107 10G LAN",
+        "lan2": "Realtek® RTL8125B 2.5G LAN",
+        "wifi": ""
+      }
     }
-  }
-]
+  ]
 }
-
